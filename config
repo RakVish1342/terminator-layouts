@@ -1,0 +1,461 @@
+[global_config]
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child0]]]
+      fullscreen = False
+      last_active_term = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+      last_active_window = True
+      maximised = False
+      order = 0
+      parent = ""
+      position = 1971:27
+      size = 734, 451
+      title = rblade@rblade-comp:~
+      type = Window
+    [[[terminal1]]]
+      command = ""
+      order = 0
+      parent = child0
+      profile = default
+      type = Terminal
+      uuid = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+  [[test_layout]]
+    [[[child0]]]
+      fullscreen = False
+      last_active_term = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+      last_active_window = True
+      maximised = True
+      order = 0
+      parent = ""
+      position = 51:27
+      size = 1869, 1025
+      title = rblade@rblade-comp:~
+      type = Window
+    [[[child2]]]
+      fullscreen = False
+      last_active_term = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+      last_active_window = False
+      maximised = True
+      order = 0
+      parent = ""
+      position = 51:27
+      size = 1869, 1025
+      title = rblade@rblade-comp:~
+      type = Window
+    [[[child4]]]
+      fullscreen = False
+      last_active_term = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+      last_active_window = False
+      maximised = False
+      order = 0
+      parent = ""
+      position = 1186:27
+      size = 734, 451
+      title = rblade@rblade-comp:~
+      type = Window
+    [[[child6]]]
+      fullscreen = False
+      last_active_term = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+      last_active_window = False
+      maximised = False
+      order = 0
+      parent = ""
+      position = 1186:599
+      size = 734, 451
+      title = rblade@rblade-comp:~
+      type = Window
+    [[[terminal1]]]
+      order = 0
+      parent = child0
+      profile = default
+      type = Terminal
+      uuid = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+    [[[terminal3]]]
+      order = 0
+      parent = child2
+      profile = default
+      type = Terminal
+      uuid = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+    [[[terminal5]]]
+      order = 0
+      parent = child4
+      profile = default
+      type = Terminal
+      uuid = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+    [[[terminal7]]]
+      order = 0
+      parent = child6
+      profile = default
+      type = Terminal
+      uuid = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+  [[test_layout2]]
+    [[[child0]]]
+      fullscreen = False
+      last_active_term = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+      last_active_window = True
+      maximised = True
+      order = 0
+      parent = ""
+      position = 51:27
+      size = 1869, 1025
+      title = rblade@rblade-comp:~
+      type = Window
+    [[[child2]]]
+      fullscreen = False
+      last_active_term = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+      last_active_window = False
+      maximised = True
+      order = 0
+      parent = ""
+      position = 51:27
+      size = 1869, 1025
+      title = rblade@rblade-comp:~
+      type = Window
+    [[[child4]]]
+      fullscreen = False
+      last_active_term = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+      last_active_window = False
+      maximised = False
+      order = 0
+      parent = ""
+      position = 1186:27
+      size = 734, 451
+      title = rblade@rblade-comp:~
+      type = Window
+    [[[child6]]]
+      fullscreen = False
+      last_active_term = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+      last_active_window = False
+      maximised = False
+      order = 0
+      parent = ""
+      position = 1186:599
+      size = 734, 451
+      title = rblade@rblade-comp:~
+      type = Window
+    [[[terminal1]]]
+      order = 0
+      parent = child0
+      profile = default
+      type = Terminal
+      uuid = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+    [[[terminal3]]]
+      order = 0
+      parent = child2
+      profile = default
+      type = Terminal
+      uuid = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+    [[[terminal5]]]
+      order = 0
+      parent = child4
+      profile = default
+      type = Terminal
+      uuid = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+    [[[terminal7]]]
+      order = 0
+      parent = child6
+      profile = default
+      type = Terminal
+      uuid = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+  [[test_layout3]]
+    [[[child0]]]
+      fullscreen = False
+      last_active_term = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+      last_active_window = False
+      maximised = True
+      order = 0
+      parent = ""
+      position = 51:27
+      size = 1869, 1025
+      title = rblade@rblade-comp:~
+      type = Window
+    [[[child2]]]
+      fullscreen = False
+      last_active_term = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+      last_active_window = False
+      maximised = False
+      order = 0
+      parent = ""
+      position = 1186:27
+      size = 734, 451
+      title = rblade@rblade-comp:~
+      type = Window
+    [[[child4]]]
+      fullscreen = False
+      last_active_term = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+      last_active_window = False
+      maximised = False
+      order = 0
+      parent = ""
+      position = 51:27
+      size = 734, 451
+      title = rblade@rblade-comp:~
+      type = Window
+    [[[child6]]]
+      fullscreen = False
+      last_active_term = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+      last_active_window = False
+      maximised = False
+      order = 0
+      parent = ""
+      position = 1186:599
+      size = 734, 451
+      title = rblade@rblade-comp:~
+      type = Window
+    [[[child8]]]
+      fullscreen = False
+      last_active_term = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+      last_active_window = True
+      maximised = False
+      order = 0
+      parent = ""
+      position = 51:599
+      size = 734, 451
+      title = rblade@rblade-comp:~
+      type = Window
+    [[[terminal1]]]
+      order = 0
+      parent = child0
+      profile = default
+      type = Terminal
+      uuid = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+    [[[terminal3]]]
+      order = 0
+      parent = child2
+      profile = default
+      type = Terminal
+      uuid = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+    [[[terminal5]]]
+      order = 0
+      parent = child4
+      profile = default
+      type = Terminal
+      uuid = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+    [[[terminal7]]]
+      order = 0
+      parent = child6
+      profile = default
+      type = Terminal
+      uuid = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+    [[[terminal9]]]
+      order = 0
+      parent = child8
+      profile = default
+      type = Terminal
+      uuid = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+  [[test_layout4]]
+    [[[child0]]]
+      fullscreen = False
+      last_active_term = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+      last_active_window = True
+      maximised = True
+      order = 0
+      parent = ""
+      position = 51:27
+      size = 1869, 1025
+      title = rblade@rblade-comp:~
+      type = Window
+    [[[child1]]]
+      order = 0
+      parent = child0
+      position = 932
+      ratio = 0.5
+      type = HPaned
+    [[[child10]]]
+      fullscreen = False
+      last_active_term = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+      last_active_window = False
+      maximised = False
+      order = 0
+      parent = ""
+      position = 51:27
+      size = 734, 451
+      title = rblade@rblade-comp:~
+      type = Window
+    [[[child12]]]
+      fullscreen = False
+      last_active_term = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+      last_active_window = False
+      maximised = False
+      order = 0
+      parent = ""
+      position = 1186:599
+      size = 734, 451
+      title = rblade@rblade-comp:~
+      type = Window
+    [[[child3]]]
+      order = 1
+      parent = child1
+      position = 510
+      ratio = 0.5
+      type = VPaned
+    [[[child6]]]
+      fullscreen = False
+      last_active_term = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+      last_active_window = False
+      maximised = False
+      order = 0
+      parent = ""
+      position = 51:599
+      size = 734, 451
+      title = rblade@rblade-comp:~
+      type = Window
+    [[[child8]]]
+      fullscreen = False
+      last_active_term = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+      last_active_window = False
+      maximised = False
+      order = 0
+      parent = ""
+      position = 1186:27
+      size = 734, 451
+      title = rblade@rblade-comp:~
+      type = Window
+    [[[terminal11]]]
+      order = 0
+      parent = child10
+      profile = default
+      type = Terminal
+      uuid = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+    [[[terminal13]]]
+      order = 0
+      parent = child12
+      profile = default
+      type = Terminal
+      uuid = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+    [[[terminal2]]]
+      command = cd /tmp; source ~/.bashrc; ./opt/ros/melodic/bin/roscore; bash;
+      directory = ""
+      order = 0
+      parent = child1
+      profile = default
+      type = Terminal
+      uuid = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+    [[[terminal4]]]
+      order = 0
+      parent = child3
+      profile = default
+      type = Terminal
+      uuid = eeca6aa4-d137-4958-9ba7-2addfd6da6d1
+    [[[terminal5]]]
+      command = cd /tmp; python; bash
+      order = 1
+      parent = child3
+      profile = default
+      type = Terminal
+      uuid = 3d0da6b9-1848-42e4-a375-efa32fa2a595
+    [[[terminal7]]]
+      order = 0
+      parent = child6
+      profile = default
+      type = Terminal
+      uuid = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+    [[[terminal9]]]
+      order = 0
+      parent = child8
+      profile = default
+      type = Terminal
+      uuid = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+  [[thordrive_planning]]
+    [[[child0]]]
+      fullscreen = False
+      last_active_term = 540f4b28-7a37-4137-9633-6d882ffab9d3
+      last_active_window = True
+      maximised = True
+      order = 0
+      parent = ""
+      position = 1971:27
+      size = 1869, 1025
+      title = rblade@rblade-comp:~
+      type = Window
+    [[[child1]]]
+      order = 0
+      parent = child0
+      position = 931
+      ratio = 0.499463519313
+      type = HPaned
+    [[[child11]]]
+      order = 1
+      parent = child9
+      position = 466
+      ratio = 0.500537056928
+      type = HPaned
+    [[[child2]]]
+      order = 0
+      parent = child1
+      position = 510
+      ratio = 0.5
+      type = VPaned
+    [[[child3]]]
+      order = 0
+      parent = child2
+      position = 465
+      ratio = 0.502159827214
+      type = HPaned
+    [[[child4]]]
+      order = 0
+      parent = child3
+      position = 254
+      ratio = 0.50297029703
+      type = VPaned
+    [[[child9]]]
+      order = 1
+      parent = child1
+      position = 510
+      ratio = 0.5
+      type = VPaned
+    [[[terminal10]]]
+      command = sleep 1 && docker exec -it $(docker ps | grep 'thordrive' | awk '{ print $1 }') /bin/bash; bash
+      order = 0
+      parent = child9
+      profile = default
+      type = Terminal
+      uuid = ff8078d3-6d23-472c-a0ff-2d20267e8e56
+    [[[terminal12]]]
+      command = sleep 1 && docker exec -it $(docker ps | grep 'thordrive' | awk '{ print $1 }') /bin/bash; bash
+      order = 0
+      parent = child11
+      profile = default
+      type = Terminal
+      uuid = 540f4b28-7a37-4137-9633-6d882ffab9d3
+    [[[terminal13]]]
+      command = sleep 1 && docker exec -it $(docker ps | grep 'thordrive' | awk '{ print $1 }') /bin/bash; bash
+      order = 1
+      parent = child11
+      profile = default
+      type = Terminal
+      uuid = 2b97d76a-ecb7-4e35-b3bc-98cf53494b05
+    [[[terminal5]]]
+      command = source ~/.bashrc && sleep 1 && rosrun rviz rviz -d /home/rblade/rakshith/thordrive/ros/rviz/test.rviz; bash
+      order = 0
+      parent = child4
+      profile = default
+      type = Terminal
+      uuid = bbc6280d-bd06-48e8-9c5c-4f72ceba5e40
+    [[[terminal6]]]
+      command = cd ~/av-us-gse && code ./ && source ~/.bashrc && sleep 1 && roscore; bash
+      order = 1
+      parent = child4
+      profile = default
+      type = Terminal
+      uuid = c6a66dd8-4135-4f0d-863d-9108ecbabb3d
+    [[[terminal7]]]
+      command = docker start thor1; bash
+      order = 1
+      parent = child3
+      profile = default
+      type = Terminal
+      uuid = 81245a6a-da38-4066-9f55-2e1f6ef94566
+    [[[terminal8]]]
+      command = "cd /home/rblade/rakshith/thordrive/ros/rosbags/210415/2021-04-15-11-09-01_valkyrie3_cvg_airfield && source ~/.bashrc && sleep 1 && rosbag play --pause *.bag; bash "
+      order = 1
+      parent = child2
+      profile = default
+      type = Terminal
+      uuid = 3508f424-2bec-49b0-98f0-15cad2c1fd28
+[plugins]
+[profiles]
+  [[default]]
+    cursor_color = "#aaaaaa"
+    scrollback_infinite = True
